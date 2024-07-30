@@ -1,0 +1,3 @@
+mongodb+srv://jtwall51:<password>@cluster1.eafjatn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1 //from mongoDB.
+
+actual string with encoded password: 
